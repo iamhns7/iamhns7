@@ -1,4 +1,4 @@
-<h1 align="center">👏🏻 HELLO THERE, I'M HASAN SİDO</h1>
+<h1 align="center">👋🏻 HELLO THERE, I'M HASAN SİDO</h1>
 <h2 align="center">🚀 Front-End Developer</h2>
 
 
@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 🎓 Software Engineering student  
 - 💻 Passionate about building **web applications**  
-- 🧑‍💻 Currently working as a **Frontend Intern**  
+- 🧑🏼‍💻 Currently working as a **Frontend Intern**  
 
 ---
 
