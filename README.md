@@ -47,9 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iamhns7&show_icons=true&theme=tokyonight" alt="Hasan's GitHub stats" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhns7&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
-</p>
 
 
 ---
