@@ -39,13 +39,6 @@
 </p>
 
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhns7&show_icons=true&theme=tokyonight" alt="Hasan's GitHub stats" width="400"/>
-</p>
 
 
 
