@@ -42,9 +42,8 @@
 
 ## 🔥 Current Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasansido&theme=tokyonight" alt="Hasan Sido's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamhns7&theme=tokyonight" alt="Hasan Sido's streak" />
 </p>
-
 
 
 
