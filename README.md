@@ -42,9 +42,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamhns7&theme=dark&ring=ff4500&fire=ff2e00&currStreakNum=ff6347&currStreakLabel=ff4500&background=0d1117" alt="Hasan Sido's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamhns7&theme=dark&ring=ff6a00&fire=ff6a00&currStreakNum=ff6a00&currStreakLabel=ff6a00&background=0d1117" alt="Hasan Sido's streak" />
 </p>
-
 
 
 ---
