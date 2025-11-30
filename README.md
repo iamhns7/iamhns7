@@ -33,6 +33,15 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+    <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+
+  <!-- Swagger -->
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="40" height="40"/>
+  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
