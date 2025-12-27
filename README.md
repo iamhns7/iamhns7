@@ -1,63 +1,11 @@
-<h1 align="center">👋🏻 HELLO THERE, I'M HASAN SİDO</h1>
-<h2 align="center">🚀 Front-End Developer</h2>
+About Me;
 
-
-
-## 🚀 About Me
-- 🎓 Software Engineering student  
-- 💻 Passionate about building **web applications**  
-- 🧑🏼‍💻 Currently working as a **Frontend Intern**  
+I am a Software Engineering student working in the Frontend and Web development field.  
+I focus on learning modern web technologies, improving my practical skills, and gaining real-world development experience.
 
 ---
 
-## 🛠️ Languages and Tools
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-    <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+Connect with Me:
 
-  <!-- Swagger -->
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamhns7&theme=dark&ring=ff6a00&fire=ff6a00&currStreakNum=ff6a00&currStreakLabel=ff6a00&background=0d1117" alt="Hasan Sido's streak" />
-</p>
-
-
-
----
-
-## 📫 Connect with Me
-- ✉️ Email: sidohasan63@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hasan-sido-a1822a25a)  
+Email: sidohasan63@gmail.com  
+LinkedIn: https://www.linkedin.com/in/hasan-sido-a1822a25a
