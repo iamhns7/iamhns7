@@ -4,12 +4,8 @@ I am a Software Engineering student currently working in the Frontend and Web de
 I focus on learning modern web technologies, improving my practical skills, and gaining real-world development experience.
 
 
-Connect with Me:
 
-Email: <a href="mailto:sidohasan63@gmail.com">sidohasan63@gmail.com</a>
-<br/>
+Contact Information:
 
-<a href="https://www.linkedin.com/in/hasan-sido-a1822a25a" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" />
-  LinkedIn
-</a>
+Email: <a href="mailto:sidohasan63@gmail.com">sidohasan63@gmail.com</a> OR 
+<a href="https://www.linkedin.com/in/hasan-sido-a1822a25a" target="_blank">LinkedIn</a>
