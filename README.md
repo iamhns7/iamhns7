@@ -10,6 +10,7 @@ Email: <a href="mailto:sidohasan63@gmail.com">sidohasan63@gmail.com</a>
 <br/>
 
 <a href="https://www.linkedin.com/in/hasan-sido-a1822a25a" target="_blank">
+   LinkedIn
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" />
-  LinkedIn
+ 
 </a>
