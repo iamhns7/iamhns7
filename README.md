@@ -7,5 +7,12 @@ I focus on learning modern web technologies, improving my practical skills, and 
 
 Connect with Me:
 
-Email: sidohasan63@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/hasan-sido-a1822a25a)
+<a href="mailto:sidohasan63@gmail.com">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="20" />
+  Email
+</a>  
+
+<a href="https://www.linkedin.com/in/hasan-sido-a1822a25a" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" />
+  LinkedIn
+</a>
