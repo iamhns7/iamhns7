@@ -9,10 +9,7 @@ Connect with Me:
 
 Connect with Me
 
-<a href="mailto:sidohasan63@gmail.com">
-  <img src="https://www.svgrepo.com/show/349378/email.svg" width="20" />
-  Email
-</a><br/>
+<a href="mailto:sidohasan63@gmail.com">Email</a><br/>
 
 <a href="https://www.linkedin.com/in/hasan-sido-a1822a25a" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" />
